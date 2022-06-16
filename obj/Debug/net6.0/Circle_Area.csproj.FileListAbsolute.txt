@@ -1,0 +1,15 @@
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/bin/Debug/net6.0/Circle_Area
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/bin/Debug/net6.0/Circle_Area.deps.json
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/bin/Debug/net6.0/Circle_Area.runtimeconfig.json
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/bin/Debug/net6.0/Circle_Area.dll
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/bin/Debug/net6.0/Circle_Area.pdb
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/Circle_Area.csproj.AssemblyReference.cache
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/Circle_Area.GeneratedMSBuildEditorConfig.editorconfig
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/Circle_Area.AssemblyInfoInputs.cache
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/Circle_Area.AssemblyInfo.cs
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/Circle_Area.csproj.CoreCompileInputs.cache
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/Circle_Area.dll
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/refint/Circle_Area.dll
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/Circle_Area.pdb
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/Circle_Area.genruntimeconfig.cache
+/Users/berkeakgun/Projects/Circle_Area/Circle_Area/obj/Debug/net6.0/ref/Circle_Area.dll
